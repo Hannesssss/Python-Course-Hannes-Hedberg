@@ -1,6 +1,6 @@
 # Python-Programming-Hannes-Hedberg
 
-<img src="assets/python.jpg" alt="drawing" width="500"/>
+<img src="assets/python.jpg" alt="drawing" width="1000"/>
 
 # Hannes Hedberg :computer:
 
