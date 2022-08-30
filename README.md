@@ -53,8 +53,7 @@ I am an asipring Software engineer
 [lab2]: 
 [lab3]: 
 [lab4]: 
-[lab5]: 
-[lab6]: 
+[lab5]:
 
 <img src="assets/Python_Text.gif" alt="Coding man" width="50%" height="20%" />
 
