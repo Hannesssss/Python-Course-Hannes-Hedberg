@@ -4,7 +4,7 @@
 
 <img src="assets/py1.gif" alt="Coding man" width="250" height="200" />
 
-<img src="assets/py2.gif" alt="Coding man" width="250" height="200" />
+<img src="assets/py2.png" alt="Coding man" width="250" height="200" />
 
 # Hannes Hedberg :computer:
 
