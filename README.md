@@ -1,11 +1,11 @@
 # Python-Programming-Hannes-Hedberg
 
-![CV timeline from 2012 to now. It started out with my studies at Chalmers followed by my biomedical engineering experiences in industry. Then my path led to teaching at gymnasium and currently at IT-högskolan.](assets/python.jpg)
+<img src="assets/python.jpg" alt="drawing" width="500"/>
 
 # Hannes Hedberg :computer:
 
 This respitory contains all Python programming we have been taught during the Python Programming course at ITHS
-<img src="assets/python.jpg" alt="drawing" width="200"/>
+
 ---
 
 ## Programs within this respitory :briefcase:
