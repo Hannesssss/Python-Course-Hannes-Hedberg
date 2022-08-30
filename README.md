@@ -23,7 +23,7 @@ I am an asipring Software engineer
 | [Python programming][pytprog]  | introduction course                |
 | [Linear algebra][lin_alg]      | introductory linear algebra course |
 
-<img src="assets/Python_Text.gif" alt="Coding man" width="450" height="300" />
+<img src="assets/Python_Text.gif" alt="Coding man" width="50%" height="20%" />
 
 <!-- | [Programmering 1][prog1]           | first programming course (gymnasiet)   | -->
 
