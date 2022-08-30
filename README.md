@@ -8,7 +8,7 @@ This respitory contains all Python programming we have been taught during the Py
 
 ---
 
-## GitHub portfolio :briefcase:
+## Programs within this respitory :briefcase:
 
 | Repo                           | Description                        |
 | ------------------------------ | ---------------------------------- |
