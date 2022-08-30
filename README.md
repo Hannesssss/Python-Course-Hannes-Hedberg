@@ -29,21 +29,6 @@ This respitory contains all Python programming we have been taught during the Py
 
 ---
 
-| Video                                 | Description                                  |
-| ------------------------------------- | -------------------------------------------- |
-| [Arbetsförmedlingen][arb_formedling]  | interview of AI program & future work market |
-| [Kanban][kanban_react]                | a simple Kanban board using React (Swedish)  |
-| [Faktorer och nollställen][ma3c_fakt] | video lecture on calculus (Swedish)          |
-| [Video CV 2019][cv_prezi]             | CV created in [Prezi][prezi] (Swedish)       |
-
-[arb_formedling]: https://arbetsformedlingen.se/play/webb-tv-och-press/webb-tv/tema-framtidens-arbetsmarknad---redan-verklighet
-[kanban_react]: https://drive.google.com/file/d/1-45bAeX-TuQXE0SVtcIDO_85qHSqGEmW/view?usp=sharing
-[ma3c_fakt]: https://www.youtube.com/watch?v=wVneS4Akh9I
-[cv_prezi]: https://www.youtube.com/watch?v=Xipc6YAtjTc&t=1s
-[prezi]: https://prezi.com/
-
----
-
 ## Contact me :iphone:
 
 - [![](assets/Linkedin_icon.png): LinkedIn][linkedin]
