@@ -1,0 +1,3 @@
+https://github.com/kokchun/Python-course-AI22/blob/main/Exercises/00-Count-with-Python-exercise.ipynb
+
+https://www.ithsdistans.se/mod/assign/view.php?id=27772
