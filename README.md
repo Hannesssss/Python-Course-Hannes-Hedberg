@@ -33,8 +33,8 @@ This respitory contains all Python programming we have been taught during the Py
 
 
 
-      <a href="[https://www.qries.com/](https://www.linkedin.com/in/hannes-hedberg-63854719b/)">
+      href="[https://www.qries.com/](https://www.linkedin.com/in/hannes-hedberg-63854719b/)">
          <img alt="Qries" src="assets/Linkedin_icon.png"
          width=150" height="70">
-      </a>
+     
 
