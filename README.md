@@ -37,4 +37,21 @@ This respitory contains all Python programming we have been taught during the Py
          <img alt="Qries" src="assets/Linkedin_icon.png"
          width=150" height="70">
     
+    
+    
+    
+    
+    
+   <style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+<h2>Center an Image</h2>
+<p>To center an image, set left and right margin to auto, and make it into a block element.</p>
+
+<img src="img_paris.jpg" alt="Paris" style="width:50%;">
 
