@@ -38,6 +38,6 @@ I am an asipring Software engineer
 
 ## Contact me :iphone:
 
-<img src="assets/coding.gif" alt="Coding man" width="250" height="200" />
+<img src="assets/coding.gif" alt="Coding man" width="50%" height="45%" />
     
 
