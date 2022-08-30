@@ -5,7 +5,7 @@
 # Hannes Hedberg :computer:
 
 This respitory contains all Python programming we have been taught during the Python Programming course at ITHS
-
+<img src="assets/python.jpg" alt="drawing" width="200"/>
 ---
 
 ## Programs within this respitory :briefcase:
