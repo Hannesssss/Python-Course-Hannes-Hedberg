@@ -58,5 +58,5 @@ I am an asipring Software engineer
 <img src="assets/Python_Text.gif" alt="Coding man" width="50%" height="20%" />
 
 ## Contact me :email:
-    
+    https://www.linkedin.com/in/hannes-hedberg-63854719b/
 
