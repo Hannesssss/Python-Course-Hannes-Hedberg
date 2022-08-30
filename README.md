@@ -36,7 +36,7 @@ I am an asipring Software engineer
 
 ---
 
-## Contact me :iphone:
+## Contact me :email:
 
 <img src="assets/coding.gif" alt="Coding man" width="30%" height="20%" />
     
