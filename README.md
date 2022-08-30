@@ -56,4 +56,4 @@ I also work with portfolio inspired pedagogics, where the students continuosly w
 
 - [![linkedIn icon](assets/linkedIn-icon.png): LinkedIn][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/kokchungiang/](https://www.linkedin.com/in/hannes-hedberg-63854719b/
+[linkedin]: [https://www.linkedin.com/in/kokchungiang/](https://www.linkedin.com/in/hannes-hedberg-63854719b/](https://www.linkedin.com/in/hannes-hedberg-63854719b/)
