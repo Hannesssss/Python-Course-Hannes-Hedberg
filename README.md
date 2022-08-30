@@ -23,7 +23,7 @@ I am an asipring Software engineer
 | [Lecture 3][L3]                | TBA                                |
 | [Lecture 4][l4]                | TBA                                |
 
-<img src="assets/Python_Text.gif" alt="Coding man" width="50%" height="20%" />
+<img src="assets/coding.gif" alt="Coding man" width="30%" height="20%" />
 
 <!-- | [Programmering 1][prog1]           | first programming course (gymnasiet)   | -->
 
@@ -56,8 +56,8 @@ I am an asipring Software engineer
 [l4]: 
 [l5]: 
 
-## Contact me :email:
+<img src="assets/Python_Text.gif" alt="Coding man" width="50%" height="20%" />
 
-<img src="assets/coding.gif" alt="Coding man" width="30%" height="20%" />
+## Contact me :email:
     
 
