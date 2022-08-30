@@ -27,8 +27,8 @@ I am an asipring Software engineer
 
 <!-- | [Programmering 1][prog1]           | first programming course (gymnasiet)   | -->
 
-[l0]: https://github.com/Hannesssss/Python-Programming-Hannes-Hedberg/blob/main/Code_Along/L0-input-output.ipynb
-[l1]: https://github.com/Hannesssss/Python-Programming-Hannes-Hedberg/blob/main/Code_Along/L1-if-statements.ipynb
+[l0]: https://github.com/Hannesssss/Python-Programming-Hannes-Hedberg/blob/main/Code_Along/L0-input-output.ipynb](https://github.com/Hannesssss/Python-Programming-Hannes-Hedberg
+[l1]:
 [l2]: 
 [l3]: 
 [l4]: 
