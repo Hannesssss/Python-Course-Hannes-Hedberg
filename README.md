@@ -17,7 +17,7 @@ I am an asipring Software engineer
 
 | Code Alongs                    | Description                        |
 | ------------------------------ | ---------------------------------- |
-| [Deep learning][dl]            | deep learning course               |
+| [Lecutre 0][l0]                | Input and Output               |
 | [Machine learning][ml]         | traditional machine learning       |
 | [Data analysis][data_analysis] | course focusing on Pandas          |
 | [Python programming][pytprog]  | introduction course                |
@@ -27,7 +27,7 @@ I am an asipring Software engineer
 
 <!-- | [Programmering 1][prog1]           | first programming course (gymnasiet)   | -->
 
-[dl]: https://github.com/Hannesssss/Python-Programming-Hannes-Hedberg/blob/main/Code_Along/L0-input-output.ipynb
+[l0]: https://github.com/Hannesssss/Python-Programming-Hannes-Hedberg/blob/main/Code_Along/L0-input-output.ipynb
 [ml]: https://github.com/kokchun/Maskininlarning-AI21
 [pytprog]: https://github.com/kokchun/Programmering-med-Python
 [data_analysis]: https://github.com/kokchun/Databehandling
