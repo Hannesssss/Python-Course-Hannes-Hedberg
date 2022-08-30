@@ -18,7 +18,7 @@ This respitory contains all Python programming we have been taught during the Py
 | [Python programming][pytprog]  | introduction course                |
 | [Linear algebra][lin_alg]      | introductory linear algebra course |
 
-<img src="assets/Python_Text.gif" alt="Coding man" width="250" height="200" />
+<img src="assets/Python_Text.gif" alt="Coding man" width="650" height="200" />
 
 <!-- | [Programmering 1][prog1]           | first programming course (gymnasiet)   | -->
 
