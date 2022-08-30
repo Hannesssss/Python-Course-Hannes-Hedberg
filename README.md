@@ -31,7 +31,7 @@ This respitory contains all Python programming we have been taught during the Py
 
 ## Contact me :iphone:
 
-<img src="assets/Linkedin_icon.png" alt="drawing" width="200"/>
+<img src="assets/Linkedin_icon.png" alt="drawing" width="50"/>
 
 - [![](assets/Linkedin_icon.png): LinkedIn][linkedin]
 
