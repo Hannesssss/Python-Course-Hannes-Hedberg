@@ -41,7 +41,7 @@ I am an asipring Software engineer
 | Laborations                    | Description                        |
 | ------------------------------ | ---------------------------------- |
 | [Lab 1][lab1]                | Setting up Github                  |
-| [Lab 2][lab2]                | If Statement                       |
+| [Lab 2][lab2]                | TBA                                |
 | [Lab 3][lab3]                | TBA                                |
 | [Lab 4][lab4]                | TBA                                |
 | [Lab 5][lab5]                | TBA                                |
