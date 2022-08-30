@@ -4,7 +4,7 @@
 
 <img src="assets/giphy.gif" alt="Coding man" width="250" height="200" />
 
-<img src="assets/banner.gif" alt="Coding man" width="1000" height="450" />
+<img src="assets/banner.gif" alt="Coding man" width="900" height="350" />
 
 # Hannes Hedberg :computer:
 
