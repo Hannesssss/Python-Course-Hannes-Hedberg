@@ -54,6 +54,6 @@ I also work with portfolio inspired pedagogics, where the students continuosly w
 
 ## Contact me :iphone:
 
-- [![linkedIn icon](assets/linkedIn-icon.png): LinkedIn][linkedin]
+- [![linkedIn icon](assets/Linkedin_icon.png): LinkedIn][linkedin]
 
 [linkedin]: [https://www.linkedin.com/in/kokchungiang/](https://www.linkedin.com/in/hannes-hedberg-63854719b/)
