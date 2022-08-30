@@ -25,7 +25,7 @@ I am an asipring Software engineer
 
 <img src="assets/coding.gif" alt="Coding man" width="30%" height="20%" />
 
-<!-- | [Programmering 1][prog1]           | first programming course (gymnasiet)   | -->
+<!-- Comment -->
 
 [l0]: https://github.com/Hannesssss/Python-Programming-Hannes-Hedberg/blob/main/Code_Along/L0-input-output.ipynb
 [l1]: https://github.com/Hannesssss/Python-Programming-Hannes-Hedberg/blob/main/Code_Along/L1-if-statements.ipynb
@@ -47,13 +47,30 @@ I am an asipring Software engineer
 | [Lab 5][lab5]                | TBA                                |
 
 
-<!-- | [Programmering 1][prog1]           | first programming course (gymnasiet)   | -->
 
 [lab1]: https://github.com/Hannesssss/Python-Programming-Hannes-Hedberg
 [lab2]: 
 [lab3]: 
 [lab4]: 
 [lab5]:
+
+
+## Exerices :muscle:
+
+| Exercies                    | Description                        |
+| ------------------------------ | ---------------------------------- |
+| [Exercise 1][Ex1]                | Setting up Github                  |
+| [Exercise 2][Ex2]                | TBA                                |
+| [Exercise 3][Ex3]                | TBA                                |
+| [Exercise 4][Ex4]                | TBA                                |
+| [Exercise 5][Ex5]                | TBA                                |
+
+
+[Ex1]: https://github.com/Hannesssss/Python-Programming-Hannes-Hedberg
+[Ex2]: 
+[Ex3]: 
+[Ex4]: 
+[Ex5]:
 
 <img src="assets/Python_Text.gif" alt="Coding man" width="50%" height="20%" />
 
