@@ -31,7 +31,7 @@ This respitory contains all Python programming we have been taught during the Py
 
 ## Contact me :iphone:
 
-<img src="assets/coding.gif" width="100" height="100" />
+<img src="assets/coding.gif" width="150" height="100" />
 
      href="[https://www.qries.com/](https://www.linkedin.com/in/hannes-hedberg-63854719b/)">
          <img alt="Qries" src="assets/Linkedin_icon.png"
