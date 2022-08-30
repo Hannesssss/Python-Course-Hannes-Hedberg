@@ -6,7 +6,7 @@ test
 
 (assets/python.jpg)
 
-# Kokchun Giang :man_teacher:
+# Hannes Hedberg :computer:
 
 I am a passionate engineer and teacher who strive to inspire students in pursuing the beauty of programming and mathematics. To do this successfully, I am always sharpening my technological and pedagogical skillsets. My pedagogical strategy is based on a combination of **structure** from special pedagogy and clear **visualization** from engineering. The main idea behind this, is that clear structure and visualization are a neccessity for some, but beneficial for all.
 
