@@ -20,7 +20,7 @@ I am an asipring Software engineer
 | [Lecutre 0][l0]                | Input and Output                   |
 | [Lecture 1][l1]                | If Statement                       |
 | [Lecture 2][l2]                | TBA                                |
-| [Lecture 3][l3]                | TBA                                |
+| [Lecture 3][L3]                | TBA                                |
 | [Lecture 4][l4]                | TBA                                |
 
 <img src="assets/Python_Text.gif" alt="Coding man" width="50%" height="20%" />
