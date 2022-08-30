@@ -53,5 +53,5 @@ img {
 <h2>Center an Image</h2>
 <p>To center an image, set left and right margin to auto, and make it into a block element.</p>
 
-<img src="img_paris.jpg" alt="Paris" style="width:50%;">
+<img src="assets/coding.gif" alt="Paris" style="width:50%;">
 
