@@ -1,6 +1,6 @@
 # Python-Programming-Hannes-Hedberg
 
-<img src="assets/banner.gif" alt="Coding man" width="50%" height="40%" />
+<img src="assets/banner.gif" alt="Coding man" width="70%" height="50%" />
 
 # Hannes Hedberg :computer:
 
