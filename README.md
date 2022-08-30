@@ -2,6 +2,10 @@
 
 <img src="assets/coding.gif" alt="Coding man" width="250" height="200" />
 
+<img src="assets/py1.gif" alt="Coding man" width="250" height="200" />
+
+<img src="assets/py2.gif" alt="Coding man" width="250" height="200" />
+
 # Hannes Hedberg :computer:
 
 This respitory contains all Python programming we have been taught during the Python Programming course at ITHS
