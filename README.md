@@ -13,26 +13,26 @@ I am an asipring Software engineer
 
 ---
 
-## Programs within this respitory :briefcase:
+## Lectures :notebook:
 
 | Code Alongs                    | Description                        |
 | ------------------------------ | ---------------------------------- |
-| [Lecutre 0][l0]                | Input and Output               |
-| [Machine learning][ml]         | traditional machine learning       |
-| [Data analysis][data_analysis] | course focusing on Pandas          |
-| [Python programming][pytprog]  | introduction course                |
-| [Linear algebra][lin_alg]      | introductory linear algebra course |
+| [Lecutre 0][l0]                | Input and Output                   |
+| [Lecture 1][l1]                | If Statement                       |
+| [Lecture 2][l2]                | TBA                                |
+| [Lecture 3][l3]                | TBA                                |
+| [Lecture 4][l4]                | TBA                                |
 
 <img src="assets/Python_Text.gif" alt="Coding man" width="50%" height="20%" />
 
 <!-- | [Programmering 1][prog1]           | first programming course (gymnasiet)   | -->
 
 [l0]: https://github.com/Hannesssss/Python-Programming-Hannes-Hedberg/blob/main/Code_Along/L0-input-output.ipynb
-[ml]: https://github.com/kokchun/Maskininlarning-AI21
-[pytprog]: https://github.com/kokchun/Programmering-med-Python
-[data_analysis]: https://github.com/kokchun/Databehandling
-[prog1]: https://github.com/NTI-Kronhus/TE19CD-PRRPRR01
-[lin_alg]: https://github.com/kokchun/Linjar-algebra-21
+[l1]: https://github.com/Hannesssss/Python-Programming-Hannes-Hedberg/blob/main/Code_Along/L1-if-statements.ipynb
+[l2]: 
+[l3]: 
+[l4]: 
+[l5]: 
 
 ---
 
