@@ -1,7 +1,5 @@
 # Python-Programming-Hannes-Hedberg
 
-<img src="assets/Python_Text.gif" alt="Coding man" width="250" height="200" />
-
 <img src="assets/banner.gif" alt="Coding man" width="900" height="400" />
 
 # Hannes Hedberg :computer:
@@ -19,6 +17,8 @@ This respitory contains all Python programming we have been taught during the Py
 | [Data analysis][data_analysis] | course focusing on Pandas          |
 | [Python programming][pytprog]  | introduction course                |
 | [Linear algebra][lin_alg]      | introductory linear algebra course |
+
+<img src="assets/Python_Text.gif" alt="Coding man" width="250" height="200" />
 
 <!-- | [Programmering 1][prog1]           | first programming course (gymnasiet)   | -->
 
