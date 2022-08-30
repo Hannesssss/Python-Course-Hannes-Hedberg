@@ -8,7 +8,7 @@ This respitory contains all Python programming we have been taught during the Py
 
 ---
 
-##About me
+## About me
 
 I am an asipring Software engineer
 
