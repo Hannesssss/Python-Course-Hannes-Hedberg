@@ -8,6 +8,12 @@ This respitory contains all Python programming we have been taught during the Py
 
 ---
 
+##About me
+
+I am an asipring Software engineer
+
+---
+
 ## Programs within this respitory :briefcase:
 
 | Repo                           | Description                        |
