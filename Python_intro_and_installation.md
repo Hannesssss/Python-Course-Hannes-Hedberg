@@ -1,0 +1,36 @@
+- # [[Python]]
+	  #course #[[Kokchun Giang]]
+		- ### Course intro
+			- Install Python
+			- Go over course PM
+			- ### Getting started with a new course
+				- Create new repository in GitHub
+					- This is done for every new course
+					- Add readme
+					- Add gitignore: Python
+					- What is gitignore? #card #python
+						- Used for ignoring various garbage files
+						- Or files that don't need to be synced when pushing
+					- Copy repo code
+					- Go to local GitHub folder
+					- Right click - bash here
+					- Write git clone + paste
+					- VS Code -> file -> open folder -> select repository
+					- Terminal -> new terminal
+					- Write "python" in terminal
+						- If path problem (nothing appears)
+							- Restart VS code or PC
+							- This PC -> properties -> advanced system settings -> environment variables... -> double click path -> should see 2 python and 1 pip
+								- If not found -> new -> browse -> user -> appdata -> local -> pip
+								- If not found still -> win + r -> cmd -> "pip" in terminal -> if the command runs it works
+					- Write "pipenv" in terminal
+						- If error
+							- "pip install pipenv" in terminal
+					- Write "pipenv install ipykernel" in terminal
+						- What is ipykernel used for? #card #Python #gap
+							- "Because there is a magical way to work" - Kokchun 2022
+					- There should now be a Pipfile containing python_version and ipykernel
+					- Go to extensions -> search "python" -> install "Python" from microsoft
+					- New file -> test.ipynb
+					- Change python version in top right corner to the newly installed virtual environment (the folder created in the start)
+					- Write "pipenv install matplotlib" in terminal
