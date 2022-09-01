@@ -8,11 +8,6 @@ This respitory contains all Python programming we have been taught during the Py
 
 ---
 
-## About me :speaker:
-I am an asipring Software engineer
-
----
-
 ## Lectures :notebook:
 
 | Code Alongs                    | Description                        |
@@ -76,4 +71,7 @@ I am an asipring Software engineer
 
 ## Contact me :email:
     https://www.linkedin.com/in/hannes-hedberg-63854719b/
+    
+Link back to [My Portfolio][p]
 
+[p]: https://github.com/Hannesssss/Portfolio-Hannes-Hedberg
