@@ -77,8 +77,6 @@ According to Nivida [^source2] there are multiple powerful technologies that cou
 11. [^source11] Towards Data Sience: 3 Ways to Deploy Machine Learning /.../
 
 12. [^source12] Python Basics: How to load Machine Learning Data in Python
-
-13. [^source13] Scikit-Learn: Model persistence
 ---
 
 [^source1]: https://scikit-learn.org/stable/model_persistence.html
