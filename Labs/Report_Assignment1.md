@@ -18,8 +18,18 @@ Using the heatmaps we can explore the correlation between the variablies and wha
 
 Linear regression analysis is commonly used as a tool to predict the value of X varible compared to Y variable. Where you try to predict one X, which is usually refered to as the "dependent variable", compared to the "Y" variable, which is usually known as the independent variable. This is possible by comparing the dependent variable to the independent variable. By utilizing this form of analysis we can estimate coefficients on a linear equation. Linear regression minimizes the discrepanices between the predict and the actual output of the values.  
 
+Once we have succesfully gathered the data we will need some place to store it. There are many different storage technologies, and depends on if we aim to store large amounts of data over a longer period of time, or if we just want a way to process it quickly. According to TechTarget [^source8], the quickest way to to process data is to store it in memory as dynamic RAM (DRAM). DRAM operates at nanoseconds speed, the issue being memory capacity. Even with several TB of DRAM it would be to small to process any large amounts of machine learning. TechTarget brings up three possible storage solutions: 
 
-<img src="assets/LinearRegression.png" alt="Coding man" width="50%" height="20%" />
+- block-based storage
+- file-based storage
+- object storage
+
+In short, block-based storage provides the lowest latency for input and output. However it lacks in scalability for larger projects. File-based storage provides scalability, but lacks in peformance. Finally, Object storage offers the best scalablity and is somewhat easier to access since it utilizes the HTTP(S) protocol. But lacks a bit on peformance and latency. There for, we would either need to pick one depending on the scale of the project, or if possible use a mix of all data storage options above. 
+
+Now that we know what to store and where to store it. Now we need to figure out in what format should we store it? It is most likley that the data we recive will be in raw format, which will need to be processed. This will then need to be converted to a more worker friendly format. There are multiple programs and webbsites which will provide this service. For example PDF Mall[^source10] allows you to upload your RAW data files and convert them to CSV files. Of course, depending on the scale of the project you may need to use something more powerful if your processing larger amounts of data.    
+
+Data for machine learning typically uses csv files. They are text based and contains comma seperated values. This format is quite popular according to Towards Data Science [^source9] as they are easy to view and debug. Along with also being easy to read and write from programs without compression or indexing.  
+
 
 ### Soruces
 
@@ -37,6 +47,12 @@ Linear regression analysis is commonly used as a tool to predict the value of X 
 
 7. [^source7] American Community Survey: ACS
 
+8. [^source8] TechTarget: SearchStorage
+
+9. [^source9] Towards Data Sience: Guide to File Formats /.../
+
+10.[^source10] PDF Mall: RAW to CSV converter
+
 ---
 
 [^source1]: https://topflightapps.com/ideas/how-to-create-a-machine-learning-app/
@@ -52,5 +68,11 @@ Linear regression analysis is commonly used as a tool to predict the value of X 
 [^source6]: https://www.mapbox.com/maps/satellite
 
 [^source7]: https://www.census.gov/programs-surveys/acs
+
+[^source8]: https://www.techtarget.com/searchstorage/feature/Storage-strategies-for-machine-learning-and-AI-workloads
+
+[^source9]: https://towardsdatascience.com/guide-to-file-formats-for-machine-learning-columnar-training-inferencing-and-the-feature-store-2e0c3d18d4f9
+
+[^source10]: https://pdfmall.com/raw-to-csv
 
 
