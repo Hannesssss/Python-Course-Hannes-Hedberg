@@ -4,7 +4,9 @@ The goal of this report is to attempt to describe a workflow to get an overview 
 
 To begin the process we research if this has been done before, which it most likley has. Similiar applications has been done by people trying on Kaggles competition [^source4] regarding the same subject.    
 
-In order to gather data, depending on the scale and budget of the project we can approach it in a few different ways. If its a large project with a high budget we could pay for already collected data to use in our machinelearning module. One advantage to this method is we get alot of data quickly and is less time consuming that collecting it ourselfs. If we however wish to gather the data ourselves then tryo labs [^source5] has written an indepth guide on how we could approach this. 
+In order to gather data, depending on the scale and budget of the project we can approach it in a few different ways. If its a large project with a high budget we could pay for already collected data to use in our machinelearning module. One advantage to this method is we get alot of data quickly and is less time consuming that collecting it ourselfs. If we however wish to gather the data ourselves then tryo labs [^source5] has written an indepth guide on how we could approach this. Everything from maps, pictures, house sieze, neighboorhood school, rents, emergency service, socioeconmic enviroments and more would need to be collected.  
+
+Tryo labs recommend utilizing a great variety of sources for this data, the more sources, the more data, the more data the more accurate our application will become. One soild example from tryo labs is the usage of 
 
 We will begin by marking up everything required 
 
@@ -12,15 +14,17 @@ We will begin by marking up everything required
 
 ### Soruces
 
-[^source1] topflight:  Machine Learning Mobile App Development: All the Whys and Hows
+1. [^source1] topflight:  Machine Learning Mobile App Development: All the Whys and Hows
 
-[^source2] Nivida:  machine learning guide
+2. [^source2] Nivida:  machine learning guide
 
-[^source3] Towards Data Sience: Predicting House Prices with Machine Learning
+3. [^source3] Towards Data Sience: Predicting House Prices with Machine Learning
 
-[^source4] Kaggle:  House Prices - Advanced Regression Techniques
+4. [^source4] Kaggle:  House Prices - Advanced Regression Techniques
 
-[^source5] Tryo Labs: Real Estate pricing with Machine Learning & non-traditional data sources
+5. [^source5] Tryo Labs: Real Estate pricing with Machine Learning & non-traditional data sources
+
+6. [^source5] Mapbox Imagery
 
 ---
 
@@ -33,5 +37,7 @@ We will begin by marking up everything required
 [^source4]: https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview/tutorials
 
 [^source5]: https://tryolabs.com/blog/2021/06/25/real-estate-pricing-with-machine-learning--non-traditional-data-sources
+
+[^source6]: https://www.mapbox.com/maps/satellite
 
 
