@@ -1,4 +1,4 @@
-# Python-Programming-Hannes-Hedberg
+# Assignment - Workflow for AI-project
 
 <img src="assets/banner.gif" alt="Coding man" width="70%" height="50%" />
 
