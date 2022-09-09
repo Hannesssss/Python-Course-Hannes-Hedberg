@@ -10,17 +10,19 @@ We will begin by marking up everything required
 
 <img src="assets/LinearRegression.png" alt="Coding man" width="50%" height="20%" />
 
-## Hannes Hedberg
+### Soruces
 
-[^source1]
+[^source1] topflight:  Machine Learning Mobile App Development: All the Whys and Hows
 
-[^source2] Nivida machine learning guide
+[^source2] Nivida:  machine learning guide
 
-[^source3] Predicting House Prices with Machine Learning
+[^source3] Towards Data Sience: Predicting House Prices with Machine Learning
 
-[^source4] House Prices - Advanced Regression Techniques
+[^source4] Kaggle:  House Prices - Advanced Regression Techniques
 
-[^source5] Real Estate pricing with Machine Learning & non-traditional data sources
+[^source5] Tryo Labs: Real Estate pricing with Machine Learning & non-traditional data sources
+
+---
 
 [^source1]: https://topflightapps.com/ideas/how-to-create-a-machine-learning-app/
 
