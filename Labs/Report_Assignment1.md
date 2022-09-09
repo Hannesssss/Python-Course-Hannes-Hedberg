@@ -28,9 +28,11 @@ In short, block-based storage provides the lowest latency for input and output. 
 
 Now that we know what to store and where to store it. Now we need to figure out in what format should we store it? It is most likley that the data we recive will be in raw format, which will need to be processed. This will then need to be converted to a more worker friendly format. There are multiple programs and webbsites which will provide this service. For example PDF Mall[^source10] allows you to upload your RAW data files and convert them to CSV files. Of course, depending on the scale of the project you may need to use something more powerful if your processing larger amounts of data. Once it has been converted into a CSV file we can follow Python basics [^source12] tutorial on how to load the CSV file into Python if we so wish.    
 
-Data for machine learning typically uses csv files. They are text based and contains comma seperated values. This format is quite popular according to Towards Data Science [^source9] as they are easy to view and debug. Along with also being easy to read and write from programs without compression or indexing.
+Data for machine learning typically uses csv files. They are text based and contains comma seperated values. This format is quite popular according to Towards Data Science [^source9] as they are easy to view and debug. Along with also being easy to read and write from programs without compression or indexing. It is also important to clean the data before letting it be processed, fixing spelling and syntax errors, standardizing data sets, correcting misstakes, identifying duplicates etc, are very imporant steps. They will aid with our model having better descion making, save time and increase productivity. 
 
-With the data collected, it has been stored in one or multiple storage systems, the data convereted into a CSV file and maybe also loaded into Python it is time for deployment. According to Towards Data Sience [^source11] the simplest way to deploy a machinelearning model is as a web service.  
+With the data collected, it has been stored in one or multiple storage systems, the data convereted into a CSV file and maybe also loaded into Python it is time for deployment. According to Towards Data Sience [^source11] the simplest way to deploy a machinelearning model is as a web service. In order to do this you will need to create the machine learning model, then train and validate the peformance. When we are satisfied with the results we can move on to persisting the model. Just like in the real world, training is often very different from reality. Thus it is imporant that the model is persistent when deployed. In order to test this we can use Scikit-Learn [^source13], their kit will will aid with making the model persist without having to be retrained. Finally, we can deploy the model in a webframework that is being hosted on the cloud. 
+
+This was just one example of deployment, and a somewhat simple one at that. If we wished to deploy it for batch prediciton or as an embedded model would require alot more effort, however due to time constraints we wont travel any deeper into the subject. 
 
 ### Soruces
 
@@ -58,6 +60,7 @@ With the data collected, it has been stored in one or multiple storage systems, 
 
 12. [^source12] Python Basics: How to load Machine Learning Data in Python
 
+13. [^source13] Scikit-Learn: Model persistence
 ---
 
 [^source1]: https://topflightapps.com/ideas/how-to-create-a-machine-learning-app/
@@ -83,5 +86,7 @@ With the data collected, it has been stored in one or multiple storage systems, 
 [^source11]: https://towardsdatascience.com/3-ways-to-deploy-machine-learning-models-in-production-cdba15b00e
 
 [^source12]: https://pythonbasics.org/how-to-load-machine-learning-data-in-python/
+
+[^source13]: https://scikit-learn.org/stable/model_persistence.html
 
 
