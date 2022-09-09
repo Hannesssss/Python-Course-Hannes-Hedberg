@@ -51,7 +51,7 @@ This was just one example of deployment, and a somewhat simple one at that. If w
 
 1. [^source1] topflight:  Machine Learning Mobile App Development: All the Whys and Hows
 
-2. [^source2] Nivida:  machine learning guide
+2. [^source2] Nivida: Machine learning guide 
 
 3. [^source3] Towards Data Sience: Predicting House Prices with Machine Learning
 
