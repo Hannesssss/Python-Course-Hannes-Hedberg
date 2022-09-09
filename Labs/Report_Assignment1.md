@@ -47,7 +47,12 @@ With the data collected, it has been stored in one or multiple storage systems, 
 
 This was just one example of deployment, and a somewhat simple one at that. If we wished to deploy it for batch prediction or as an embedded model would require a lot more effort, however due to time constraints we won’t travel any deeper into the subject.  
 
-## 7. Sources
+## 7. Technologies
+
+According to Nivida [^source2] there are multiple powerful technologies that could be utilized to power this project. NGC with machine learning frameworks, google clouds vertex AI and RAPIDS just to name a few. If this project was to be based on the Graphics Card (GPU) and using the programming language Python, then RAPIDS would be a solid option. RAPIDS is a collection open-source libraries and allows the user to execute end-to-end analytics entirely on the GPU. This technique would allow us to rapidly build, clean and train our model. Quickly moving through the early stages of the machine learning process. Of course, this would work good on a personal project, and it is most likely what would have been used for this project should we been tasked with making it a reality. On a larger scale and with larger amounts of data you would most likely require more powerful processing power, or perhaps utilize a different technique.
+
+
+## 8. Sources
 
 1. [^source1] topflight:  Machine Learning Mobile App Development: All the Whys and Hows
 
