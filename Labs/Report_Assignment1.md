@@ -54,7 +54,7 @@ According to Nivida [^source2] there are multiple powerful technologies that cou
 
 ## 8. Sources
 
-1. [^source1] topflight:  Machine Learning Mobile App Development: All the Whys and Hows
+1. [^source1] Scikit-Learn: Model persistence
 
 2. [^source2] Nivida:  machine learning guide
 
@@ -81,7 +81,7 @@ According to Nivida [^source2] there are multiple powerful technologies that cou
 13. [^source13] Scikit-Learn: Model persistence
 ---
 
-[^source1]: https://topflightapps.com/ideas/how-to-create-a-machine-learning-app/
+[^source1]: https://scikit-learn.org/stable/model_persistence.html
 
 [^source2]: https://developer.nvidia.com/blog/step-by-step-guide-to-building-a-machine-learning-application-with-rapids/
 
@@ -104,7 +104,5 @@ According to Nivida [^source2] there are multiple powerful technologies that cou
 [^source11]: https://towardsdatascience.com/3-ways-to-deploy-machine-learning-models-in-production-cdba15b00e
 
 [^source12]: https://pythonbasics.org/how-to-load-machine-learning-data-in-python/
-
-[^source13]: https://scikit-learn.org/stable/model_persistence.html
 
 
