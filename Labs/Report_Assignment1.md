@@ -1,10 +1,16 @@
 # Assignment - Workflow for AI-project
 
+## 1. Intro
+
 The goal of this report is to attempt to describe a workflow to get an overview of the most common steps in creating a machinelearning application. In this example the application will attepempt to get an overview of the price ranges of houses. The price ranges will be based on different features such as amount of rooms, sieze, location. 
+
+## 2. Research
 
 To begin the process we research if this has been done before, which it most likley has. Similiar applications has been done by people trying on Kaggles competition [^source4] regarding the same subject.    
 
-In order to gather data, depending on the scale and budget of the project we can approach it in a few different ways. If its a large project with a high budget we could pay for already collected data to use in our machinelearning module. One advantage to this method is we get alot of data quickly and is less time consuming that collecting it ourselfs. If we however wish to gather the data ourselves then tryo labs [^source5] has written an indepth guide on how we could approach this. Everything from maps, pictures, house sieze, neighboorhood school, rents, emergency service, socioeconmic enviroments and more would need to be collected.  
+In order to gather data, depending on the scale and budget of the project we can approach it in a few different ways. If its a large project with a high budget we could pay for already collected data to use in our machinelearning module. One advantage to this method is we get alot of data quickly and is less time consuming that collecting it ourselfs. If we however wish to gather the data ourselves then tryo labs [^source5] has written an indepth guide on how we could approach this. Everything from maps, pictures, house sieze, neighboorhood school, rents, emergency service, socioeconmic enviroments and more would need to be collected. 
+
+## 3. Data
 
 Tryo labs recommend utilizing a great variety of sources for this data, the more sources, the more data, the more data the more accurate our application will become. One soild example from tryo labs is the usage of Mapboxs Satellite API [^source6] which allows the user to query any location by coordinates with 50 000 requests per month. This provides a solid amount of data to feed the machinelearning.
 
@@ -18,6 +24,8 @@ Using the heatmaps we can explore the correlation between the variablies and wha
 
 Linear regression analysis is commonly used as a tool to predict the value of X varible compared to Y variable. Where you try to predict one X, which is usually refered to as the "dependent variable", compared to the "Y" variable, which is usually known as the independent variable. This is possible by comparing the dependent variable to the independent variable. By utilizing this form of analysis we can estimate coefficients on a linear equation. Linear regression minimizes the discrepanices between the predict and the actual output of the values.  
 
+## 4. Storage
+
 Once we have succesfully gathered the data we will need some place to store it. There are many different storage technologies, and depends on if we aim to store large amounts of data over a longer period of time, or if we just want a way to process it quickly. According to TechTarget [^source8], the quickest way to to process data is to store it in memory as dynamic RAM (DRAM). DRAM operates at nanoseconds speed, the issue being memory capacity. Even with several TB of DRAM it would be to small to process any large amounts of machine learning. TechTarget brings up three possible storage solutions: 
 
 - block-based storage
@@ -26,15 +34,19 @@ Once we have succesfully gathered the data we will need some place to store it. 
 
 In short, block-based storage provides the lowest latency for input and output. However it lacks in scalability for larger projects. File-based storage provides scalability, but lacks in peformance. Finally, Object storage offers the best scalablity and is somewhat easier to access since it utilizes the HTTP(S) protocol. But lacks a bit on peformance and latency. There for, we would either need to pick one depending on the scale of the project, or if possible use a mix of all data storage options above. 
 
+## 5. File format
+
 Now that we know what to store and where to store it. Now we need to figure out in what format should we store it? It is most likley that the data we recive will be in raw format, which will need to be processed. This will then need to be converted to a more worker friendly format. There are multiple programs and webbsites which will provide this service. For example PDF Mall[^source10] allows you to upload your RAW data files and convert them to CSV files. Of course, depending on the scale of the project you may need to use something more powerful if your processing larger amounts of data. Once it has been converted into a CSV file we can follow Python basics [^source12] tutorial on how to load the CSV file into Python if we so wish.    
 
 Data for machine learning typically uses csv files. They are text based and contains comma seperated values. This format is quite popular according to Towards Data Science [^source9] as they are easy to view and debug. Along with also being easy to read and write from programs without compression or indexing. It is also important to clean the data before letting it be processed, fixing spelling and syntax errors, standardizing data sets, correcting misstakes, identifying duplicates etc, are very imporant steps. They will aid with our model having better descion making, save time and increase productivity. 
+
+## 6. Deployment
 
 With the data collected, it has been stored in one or multiple storage systems, the data convereted into a CSV file and maybe also loaded into Python it is time for deployment. According to Towards Data Sience [^source11] the simplest way to deploy a machinelearning model is as a web service. In order to do this you will need to create the machine learning model, then train and validate the peformance. When we are satisfied with the results we can move on to persisting the model. Just like in the real world, training is often very different from reality. Thus it is imporant that the model is persistent when deployed. In order to test this we can use Scikit-Learn [^source13], their kit will will aid with making the model persist without having to be retrained. Finally, we can deploy the model in a webframework that is being hosted on the cloud. 
 
 This was just one example of deployment, and a somewhat simple one at that. If we wished to deploy it for batch prediciton or as an embedded model would require alot more effort, however due to time constraints we wont travel any deeper into the subject. 
 
-### Soruces
+## 7. Sources
 
 1. [^source1] topflight:  Machine Learning Mobile App Development: All the Whys and Hows
 
