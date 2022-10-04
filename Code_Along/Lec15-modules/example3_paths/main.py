@@ -22,4 +22,4 @@ sys.path.append(path_folder2)
 
 import module1, module2
 
-print(sys.path)
+print(sys.path) # alla sökvägar python använder
