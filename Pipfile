@@ -9,6 +9,7 @@ matplotlib = "*"
 black = "*"
 numpy = "*"
 mathplot = "*"
+matplot = "*"
 
 [dev-packages]
 
