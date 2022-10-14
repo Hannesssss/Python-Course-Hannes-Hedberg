@@ -12,12 +12,12 @@ This respitory contains the file for the OOP (object oriented programming) labb.
 
 | Files                    | Description                        |Filetype                   |
 | ------------------------------ | ---------------------------------- |----------------------------------|
-| [file0][l0]                | Geometry shapes                  |     .py                                  |
-| [file1][l1]                | Labb3 Geometry OOP                      |    .py                            |
-| [file2][l2]                | Testing                                |    .py                                 |
-| [file3][L3]                | Planning in draw.io                                |  .io                                   |
-| [file4][l4]                | Planning in draw.io, exported to pdf                           |   .pdf                             |
-| [file5][l5]                | Labb description                               |      .pdf                               |
+| [Geometry shapes][l0]                | Contains all the Geometry shapes                  |     .py                                  |
+| [Labb3][l1]                | Labb3 Geometry OOP                      |    .py                            |
+| [Testing][l2]                | Contains a file for testing                                |    .py                                 |
+| [draw.io][L3]                | Planning in draw.io                                |  .io                                   |
+| [flow chart][l4]                | Planning in draw.io, exported to pdf                           |   .pdf                             |
+| [Labb3 assignment][l5]                | Labb description                               |      .pdf                               |
 
 <img src="assets/coding.gif" alt="Coding man" width="30%" height="20%" />
 
