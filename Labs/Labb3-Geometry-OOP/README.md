@@ -8,7 +8,7 @@ This respitory contains the file for the OOP (object oriented programming) labb.
 
 ---
 
-## Lectures :notebook:
+## Navigation :notebook:
 
 | Files                    | Description                        |Filetype                   |
 | ------------------------------ | ---------------------------------- |----------------------------------|
