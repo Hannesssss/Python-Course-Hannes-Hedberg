@@ -10,16 +10,28 @@ class GeometryShape:
         self.x = x
         self.y = y
 
+    # operator overload ==
+    def __eq__(self, other):
+        if not isinstance(other, self.__class__):
+            return False
+        return self.area == other.area
+
+    # operator overload >
+    def __gt__(self, other):
+        if not isinstance(other, self.__class__):
+            return False
+        return self.area > other.area
+
     # operator overload >=
-    def __ge__(self, other):  # greater than or equal
+    def __ge__(self, other):
         return self > other or self == other
 
     # operator overload <
-    def __lt__(self, other):  # lesser than
+    def __lt__(self, other):
         return not self > other and not self == other
 
     # operator overload <=
-    def __le__(self, other):  # lesser than or equal
+    def __le__(self, other):
         return self < other or self == other
 
 class Rectancle(GeometryShape):
@@ -44,7 +56,7 @@ class Rectancle(GeometryShape):
     def is_inside(self, x, y):
         if not isinstance(x, (int, float)) or not isinstance(y, (int, float)):
             raise ValueError("is_inside expects valid number input")
-        return self._height >= y and self._width >= x
+        return self._height >= y and self._width >= x and x >= 0 and y >= 0 
         
     def __repr__(self): # Debug information
         return f"Rectancle({self.x}, {self.y}, {self._height}, {self._width})"
@@ -52,17 +64,34 @@ class Rectancle(GeometryShape):
     def __str__(self):  # Pretty information
         return f"x = {self.x}, y = {self.y}, height = {self._height}, width = {self._width}"
 
-    # operator overload ==
-    def __eq__(self, other):
-        if not isinstance(other, Rectancle):            # checks if other is also a rectangle
-            return False
-        return (                                        # compares stored variables of both rectangles
-            self._width == other._width and
-            self._height == other._height
-        )
+class Circle(GeometryShape):
+    def __init__(self, x, y, radius):
+        super().__init__(x, y)                       # Calls the parents __init__. In this case that is GeometryShape
+        if not isinstance(radius, (int, float)):
+            raise ValueError("Circle expects valid number input")
+        self._radius = radius
 
-    # operator overload >
-    def __gt__(self, other):                            # greater than
-        if not isinstance(other, Rectancle):            # checks if other is also a rectangle
-            return False
-        return self.area > other.area
+    @property
+    def area(self):
+        return (self._radius ** 2) * math.pi 
+
+    @property
+    def circumference(self):
+        return self._radius * 2 * math.pi
+
+    def is_unit_circle(self):
+        return self._radius == 1
+
+    def is_inside(self, x, y):
+        if not isinstance(x, (int, float)) or not isinstance(y, (int, float)):
+            raise ValueError("is_inside expects valid number input")
+        return self._radius >= abs(x + y)       # absoulte value, calculating distance which cant be negative
+
+        # x = 1 , y = 1 , x + y <= radius
+
+    def __repr__(self): # Debug information
+        return f"Circle({self._radius})"
+
+    def __str__(self):  # Pretty information
+        return f"radius = {self._radius})"
+

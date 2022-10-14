@@ -1,4 +1,7 @@
 from geometry_shapes import Rectancle
+from geometry_shapes import Circle
+from geometry_shapes import Sphere
+from geometry_shapes import Cube
 
 rect = Rectancle(1, 1, 2, 2)
 
@@ -22,7 +25,10 @@ print("is_inside(0.5, 0.5)", rect.is_inside(0.5, 0.5))
 assert rect.is_inside(0.5, 0.5) == True
 
 print("is_inside(1, 3)", rect.is_inside(1, 3))
-assert rect.is_inside(1, 3) == True
+assert rect.is_inside(1, 3) == False
+
+print("is_inside(-0.5, -0.5)", rect.is_inside(-0.5, -0.5))
+assert rect.is_inside(-0.5, -0.5) == False
 
 rect1 = Rectancle(1, 1, 1, 1)
 rect2 = Rectancle(0, 0, 2, 2)
@@ -35,3 +41,15 @@ print(rect1 > rect2)   # self > other
 print(rect1 >= rect2)  # self >= other
 print(rect1 < rect2)   # self < other
 print(rect1 <= rect2)  # self <= other
+
+circle1 = Circle(1, 1, 1)
+circle2 = Circle(2, 2, 2)
+
+print(f"circle1 = {repr(circle1)}")
+print(f"circle2 = {repr(circle2)}")
+
+print(circle1 == circle2)  # self == other
+print(circle1 > circle2)   # self > other
+print(circle1 >= circle2)  # self >= other
+print(circle1 < circle2)   # self < other
+print(circle1 <= circle2)  # self <= other
