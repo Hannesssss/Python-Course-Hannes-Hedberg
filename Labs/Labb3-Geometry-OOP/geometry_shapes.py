@@ -28,7 +28,7 @@ class GeometryShape:                                                            
 
     # operator overload <
     def __lt__(self, other):
-        return not self > other and not self == other
+        return self < other and self == other
 
     # operator overload <=
     def __le__(self, other):
@@ -169,3 +169,14 @@ class Cube(GeomtryShape3D):
 
     def __str__(self):  # Pretty information
         return f"x = {self.x}, y = {self.y}, z = {self.z}, size = {self._size}"
+
+
+
+
+# Komplettering
+
+# * UMLen är felaktig och behöver skrivas om. Ex på UML du kan kika på https://github.com/kokchun/Python-course-AI22/blob/main/Lecture_notes/Lec13.1-UML_exempel.png
+# * lägg till docstrings
+# X * notera att not self > other är samma som self < other
+# * lägg till type hints
+# * hade velat se fler manuella tester 
