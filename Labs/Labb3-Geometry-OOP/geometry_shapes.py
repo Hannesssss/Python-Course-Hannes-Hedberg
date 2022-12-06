@@ -156,7 +156,10 @@ class Cube(GeomtryShape3D):
     def circumference(self):
         return self._size * 6
 
-    def is_inside(self, x, y, z):
+    def is_inside(self, x: float, y: float, z:float) -> bool:   # type hint
+        """
+                # docstring --------------
+        """
         if not isinstance(x, (int, float)) or not isinstance(y, (int, float)) or not isinstance(z, (int, float)):
             raise ValueError("is_inside expects valid number input")
         dif_x = self.x - x                  # subtracts our postions from the input in order to get the relative position
