@@ -10,6 +10,7 @@ black = "*"
 numpy = "*"
 mathplot = "*"
 matplot = "*"
+pandas = "*"
 
 [dev-packages]
 
