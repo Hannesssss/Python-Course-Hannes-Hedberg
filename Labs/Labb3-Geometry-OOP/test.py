@@ -65,3 +65,18 @@ print(sphere1 > sphere2)   # self > other
 print(sphere1 >= sphere2)  # self >= other
 print(sphere1 < sphere2)   # self < other
 print(sphere1 <= sphere2)  # self <= other
+
+
+Cube1 = Cube(1, 1, 1)
+Cube2 = Cube(2, 2, 2)
+
+print(f"Cube1 = {repr(Cube1)}")
+print(f"Cube2 = {repr(Cube2)}")
+
+print(Cube1 == Cube2)  # self == other
+print(Cube1 > Cube2)   # self > other
+print(Cube1 >= Cube2)  # self >= other
+print(Cube1 < Cube2)   # self < other
+print(Cube1 <= Cube2)  # self <= other
+
+
