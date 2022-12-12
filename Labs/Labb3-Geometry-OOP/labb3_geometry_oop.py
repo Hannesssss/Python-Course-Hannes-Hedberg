@@ -1,4 +1,5 @@
 # Labb 3 OOP Gemoetry
+# See test.py for more tests
 
 from geometry_shapes import Circle
 from geometry_shapes import Rectangle
@@ -7,7 +8,7 @@ from geometry_shapes import Sphere
 
 
 cirkel1 = Circle(x=0,y=0, radius=1) # enhetscirkel
-cirkel2 = Circle(x=1,y=1, radius=1)
+cirkel2 = Circle(x=1,y=1, radius=1)  
 rektangel = Rectangle(x=0,y=0,side1=1, side2=1)
 
 
