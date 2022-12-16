@@ -131,21 +131,6 @@
                 <mxCell id="33" value="area(self):&#10;circumference(self):&#10;is_unit_sphere(self):&#10;is_inside(self, x: int, y: int, z: int) -&gt; int:&#10;__repr__(self):&#10;__str__(self):" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="25" vertex="1">
                     <mxGeometry y="134" width="280" height="120" as="geometry"/>
                 </mxCell>
-                <mxCell id="39" value="" style="endArrow=block;endSize=10;endFill=0;shadow=0;strokeWidth=1;rounded=0;edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=0.506;exitY=1.018;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="21" target="25" edge="1">
-                    <mxGeometry width="160" relative="1" as="geometry">
-                        <mxPoint x="490" y="830" as="sourcePoint"/>
-                        <mxPoint x="880" y="730" as="targetPoint"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="41" value="" style="endArrow=block;endSize=10;endFill=0;shadow=0;strokeWidth=1;rounded=0;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.468;exitY=1.012;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zkfFHV4jXpPFQw0GAbJ--10" target="6" edge="1">
-                    <mxGeometry width="160" relative="1" as="geometry">
-                        <mxPoint x="240" y="560" as="sourcePoint"/>
-                        <mxPoint x="330" y="629.48" as="targetPoint"/>
-                        <Array as="points">
-                            <mxPoint x="236" y="660"/>
-                        </Array>
-                    </mxGeometry>
-                </mxCell>
                 <mxCell id="42" value="" style="endArrow=block;endSize=10;endFill=0;shadow=0;strokeWidth=1;rounded=0;edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zkfFHV4jXpPFQw0GAbJ--17" edge="1">
                     <mxGeometry width="160" relative="1" as="geometry">
                         <mxPoint x="665.5999999999999" y="720.002" as="sourcePoint"/>
